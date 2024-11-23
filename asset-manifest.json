@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transaction-tracker/static/css/main.6575e939.css",
+    "main.js": "/transaction-tracker/static/js/main.2d65f262.js",
+    "index.html": "/transaction-tracker/index.html",
+    "main.6575e939.css.map": "/transaction-tracker/static/css/main.6575e939.css.map",
+    "main.2d65f262.js.map": "/transaction-tracker/static/js/main.2d65f262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6575e939.css",
+    "static/js/main.2d65f262.js"
+  ]
+}
