@@ -1,3 +1,7 @@
+# View the website
+
+Here is the link to preview the website: https://adammalhafizh.github.io/transaction-tracker/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
