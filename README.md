@@ -1,4 +1,8 @@
-# View the website
+# Project's Description
+
+This project is a simple ReactJS website built using basic ReactJS fundamentals. The website purpose is to track your monthly transaction.
+
+# View The Website
 
 Here is the link to preview the website: https://adammalhafizh.github.io/transaction-tracker/
 
